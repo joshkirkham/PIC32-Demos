@@ -1,0 +1,1 @@
+ $(MP_EXTRA_CC_PRE)  -g -x c -c -mprocessor=$(MP_PROCESSOR_OPTION)  -ffunction-sections -fno-common -I"../src" -I"../src/config/LED_Driver" -Werror -Wall   -DXPRJ_LED_Driver=$(CND_CONF)    $(COMPARISON_BUILD)  -mdfp="${DFP_DIR}"  /home/swood/HarmonyProjects/LED_Driver/firmware/src/config/LED_Driver/peripheral/gpio/plib_gpio.c

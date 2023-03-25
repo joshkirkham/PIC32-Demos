@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/LED_Driver/debug/LED_Driver.X.debug.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>2098304</length>                 
+      <used>15416</used>                     
+      <free>2082888</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>525184</length>                 
+      <used>1896</used>                     
+      <free>523288</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
